@@ -23,3 +23,23 @@
 . UML da estrutura dos dados que serão coletados e armazenados
 .
 
+#### Responsabilidades Juridicas
+
+- definir informacoes para o termo de compromisso
+- demandas do registro da crianca
+- definir limitacoes de operacao (o que pode e nao pode)
+
+#### Recursos e ferramentas
+
+##### Hardware
+
+-
+-
+-
+
+##### Software
+
+- codigo back end Python
+- Estrutura de dados Postgres
+- queries em FastAPI
+- 
