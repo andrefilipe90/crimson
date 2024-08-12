@@ -39,7 +39,7 @@
 
 ##### Software
 
-- codigo back end Python
+- codigo backend Python
 - Estrutura de dados Postgres
 - queries em FastAPI
-- 
+- Integraçao reconhecimento facil no Checkin
