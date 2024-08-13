@@ -40,6 +40,10 @@
 ##### Software
 
 - codigo backend Python
+    - pip: django, djangorestframework
+    - django-admin startproject crimson
+    - django-admin startapp api
+    - python ./manage.py makemigrations
 - Estrutura de dados Postgres
 - queries em FastAPI
 - Integraçao reconhecimento facil no Checkin
