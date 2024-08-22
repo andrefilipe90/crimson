@@ -44,6 +44,7 @@
     - django-admin startproject crimson
     - django-admin startapp api
     - python ./manage.py makemigrations
+    - npm run dev
 - Estrutura de dados Postgres
 - queries em FastAPI
 - Integraçao reconhecimento facil no Checkin

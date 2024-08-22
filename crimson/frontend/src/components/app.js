@@ -24,7 +24,8 @@ export default class App extends Component {
     render() {
         return (
             <div>
-                <HomePage />
+                <p1>Test</p1>
+                <HomePage></HomePage>
             </div>
         );
     }
